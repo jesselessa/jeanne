@@ -21,7 +21,7 @@ This project is a website designed for Jeanne Paris, a brand showcasing a collec
 
 ## Website
 
-You can view the website [here](https://jesselessa.github.io/jeanne/)
+You can view the website [here](https://jeanne.jesselessa.dev)
 
 ## Stack
 
