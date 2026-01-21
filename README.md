@@ -73,7 +73,7 @@ Page displaying a thank you message and order reference after a successful purch
 
 ## Stay updated
 
-To stay updated with the latest changes, you can pull them from the repository : `git pull origin main`
+To stay updated with the latest changes, you can pull them from the repository : `git pull origin main`.
 
 ## Contact
 
